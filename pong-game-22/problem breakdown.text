@@ -1,0 +1,10 @@
+1. create a screen
+2.create a paddle
+3.create another paddle
+4.create a ball and make it move
+5.detect collision with up and down wall and bounce back
+6.detect collision with paddle
+7.detect when paddle miss ball means when ball hit collition with left and right wall
+8.keep score
+Up wall(,y=280)x value can be anything does not matter
+down wall(y=-280)
